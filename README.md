@@ -1,4 +1,5 @@
 An app that can help you split the bill after the tip 
 
-![weSplit](https://github.com/user-attachments/assets/5e848293-05b1-4520-812d-d4af89ae8d28)
+![weSplit](https://github.com/user-attachments/assets/758aa39f-1718-4122-8a7a-bcc47d6cd7f4)
+
 
