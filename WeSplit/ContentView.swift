@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WeSplit
 //
-//  Created by Hadi Al zayer on 18/04/1446 AH.
+//  Created by Hadi 18/04/1446 AH.
 //
 
 import SwiftUI
