@@ -14,11 +14,9 @@ struct ContentView: View {
     @FocusState private var amountIsFocused : Bool
     
     let tipPercentages = [10, 15 , 20 , 25 , 0]
-    
     var totalPerPerson : Double{
         let peopleCount = Double(numberOfPeople + 2)
         let tipSelection = Double(tipPercentage)
-        
         let tipValue = checkAmount / 100 * tipSelection
         let grandTotal = checkAmount + tipValue
         let amountPerPerson = grandTotal / peopleCount
